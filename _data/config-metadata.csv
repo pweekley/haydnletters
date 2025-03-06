@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+title,Title,,
+creator,Creator,,
+date,Dated,,
+description,Description,,
+subject,Subjects,true,
+location,Location,
+source,Secondary Source,
+language,Language,
+landonsource,Primary Source,
+barthatext,Original Text,
+landontext,Translated Text,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
