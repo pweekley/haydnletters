@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Haydn's Letters
+title: Haydn's Letters and Documents
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a searchable repository of Haydn's letters with translations
+tagline: a searchable repository of Haydn's letters and other relevant documents with translations
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Haydn's Letters is a searchable and browsable repository of the composer's letters with texts and translations."
+description: "Haydn's Letters is a searchable and browsable repository of the composer's letters/documents with texts and translations."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Peyson Weekley
 
