@@ -4,6 +4,6 @@ date,true,true
 subject,true,true
 location,true,false
 source,true,false
-landonsource,true,true
-barthatext,true,true
-landontext,true,true
+landonsource,true,false
+barthatext,true,false
+landontext,true,false
