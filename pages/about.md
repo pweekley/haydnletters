@@ -21,4 +21,7 @@ Valkó II = Arisztid Valkó, "Haydn magyarországi működése a levéltári akt
 The intial goal is to have all of the letter and documents that are included in the GBA and CCLN on this site. Occassionally, Bartha includes a document in the GBA that is not included in Landon's CCLN. When this happens, I check the appropriate volume of Landon's HCW to see if it is included there. If so, I use that as my translated text. The HCW (rarely, but sometimes) includes documents that are in neither the GBA or CCLN. To save time, I record these and attempt to find the German original in a different source. The aim is to systematically go through the following sources to find additional relevant letters and documents after the intial run through the GBA and CCLN is complete:
 * HCW  
 * Mozart's correspondence (likely: Deutsch and Anderson, with the Edge/Black website as a supplement)  
-* Beethoven's correspondence  
+* Beethoven's correspondence
+
+## Other Goals for the Site and Its Data
+The location metadata and data itself is somewhat messy currently. In the future, I would like to record two different location-bound metadata types: where a document originated and where it was sent (if applicable). As of now, the location field and map visualization pertain only to the first of these two types.  
